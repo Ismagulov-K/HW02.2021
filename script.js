@@ -19,7 +19,12 @@ $(".main__menu li:has('.submenu')").hover(
 
 
 
-
+// $(document).ready(function () {
+//     $('.flexslider').flexslider({
+//         animation: 'fade',
+//         controlsContainer: '.flexslider'
+//     });
+// });
 
 
 
